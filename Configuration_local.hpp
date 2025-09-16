@@ -104,7 +104,7 @@
 // Define whether we have the Digital Level or not. Currently: No Digital Level
 #define USE_GYRO_LEVEL 0
 
-#define WIFI_ENABLED 0 
+#define WIFI_ENABLED 0
 
 ///////////////////////
 // Debug settings

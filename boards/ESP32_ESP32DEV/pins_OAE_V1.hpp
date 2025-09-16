@@ -68,7 +68,7 @@
     #define ALT_DIR_PIN 7  // DIR
 #endif
 #ifndef ALT_EN_PIN
-    // #define ALT_EN_PIN 4  // Enable
+    #define ALT_EN_PIN 32  // Enable
 #endif
 
 #ifndef AZ_STEP_PIN
@@ -78,7 +78,7 @@
     #define AZ_DIR_PIN 8  // DIR
 #endif
 #ifndef AZ_EN_PIN
-    // #define AZ_EN_PIN 32  // Enable
+    #define AZ_EN_PIN 32  // Enable
 #endif
 
 // DISPLAY_TYPE_LCD_JOY_I2C_SSD1306 requires 3 analog inputs in Arduino pin numbering
